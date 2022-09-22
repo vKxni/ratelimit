@@ -8,4 +8,6 @@ The repository for the written tutorial "Rate Limits in Phoenix".
 <p>
 
 
+Link: [https://dev.to/vkxni/rate-limits-phoenix-dmd](https://dev.to/vkxni/rate-limits-phoenix-dmd)
+
 by [@vKxni](https://github.com/vKxni).
